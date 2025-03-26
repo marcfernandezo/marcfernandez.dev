@@ -1,0 +1,9 @@
+# development & build
+.next/
+build/
+
+# modules
+node_modules/
+
+# misc
+public/
