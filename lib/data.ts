@@ -70,3 +70,5 @@ export const SOCIAL_LINKS: SocialLinks[] = [
 ]
 
 export const EMAIL = "marc.fernandezo@hotmail.com"
+
+export const URL = "https://marcfernandez.dev"
