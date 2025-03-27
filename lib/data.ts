@@ -23,14 +23,14 @@ type SocialLinks = {
 
 export const FEATURED_PROJECTS: Project[] = [
   {
-    icon: "/assets/reactui-icon.png",
-    title: "@react-svex",
+    icon: "/assets/collection-1.webp",
+    title: "@react-elements",
     description: "✨ A collection of React UI components and icons.",
-    link: "https://github.com/marrcoz/react-svex",
-    repository: "https://github.com/marrcoz/react-svex",
+    link: "https://github.com/marcfernandezo/react-elements",
+    repository: "https://github.com/marcfernandezo/react-elements",
   },
   {
-    icon: "/assets/nestcord-icon.webp",
+    icon: "/assets/collection-2.webp",
     title: "Nestcord",
     description: "🚀 A social media built with Next.js, made for a school project",
     link: "https://nestcord.vercel.app/",
